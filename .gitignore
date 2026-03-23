@@ -1,0 +1,4 @@
+venv/
+
+# Large data files (hosted on HuggingFace)
+distilled_model/data/*.jsonl
